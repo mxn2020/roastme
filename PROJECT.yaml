@@ -1,0 +1,16 @@
+id: ca15061c-2465-4185-8739-d59c3308fe46
+name: roastme
+description: "Upload a photo and get ruthlessly roasted by AI"
+tier: prototype
+lane: side-projects
+priority: low
+category: vision
+focus: false
+open_tasks: 0
+oss: false
+stack: [typescript, react, convex, vite]
+repo: https://github.com/mxn2020/roastme
+deploy_url: null
+last_active: 2026-03-02
+tags: [ai, convex]
+notes:
